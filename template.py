@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name = "DiamondPricePrediction"
+package_name = "Book_recommendation_system"
 
 list_of_files = [
      "github/workflows/.gitkeep",
